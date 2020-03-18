@@ -9,7 +9,7 @@ node {
            export AZURE_CLIENT_SECRET=$AZURE_CLIENT_SECRET
            export AZURE_TENANT_ID=$AZURE_TENANT_ID
            export AZURE_SUBSCRIPTION_ID=$AZURE_SUBSCRIPTION_ID
-           py example.py
+           python example.py
          '''
        }
    }
